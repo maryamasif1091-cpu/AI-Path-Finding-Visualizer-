@@ -131,5 +131,6 @@ The GUI highlights:
 It also displays:
 -  Total nodes visited
 -  Path cost
+
 -  Execution time
-```
+``
